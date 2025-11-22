@@ -25,9 +25,9 @@ export const Hero = () => {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
         <div className="max-w-3xl">
           <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold mb-6 text-foreground">
-            Stop wasting money and resources on fragmented systems. I deliver end-to-end {" "}
+           Transform Your Business with Expert Analysis {" "}
             <span className="bg-gradient-primary bg-clip-text text-transparent">
-             digital transformation projects—on time and on budget.
+              Expert Analysis
             </span>
           </h1>
           
