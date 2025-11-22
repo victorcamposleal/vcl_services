@@ -57,6 +57,7 @@ export const Contact = () => {
                   <div>
                     <div className="text-sm text-muted-foreground mb-1">Location</div>
                     <div className="text-foreground font-medium">Sevilla, Spain</div>
+                    <div className="text-foreground font-medium">Antwerp, Belgium</div>
                   </div>
                 </div>
                 

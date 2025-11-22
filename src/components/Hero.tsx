@@ -25,15 +25,14 @@ export const Hero = () => {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
         <div className="max-w-3xl">
           <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold mb-6 text-foreground">
-            Transform Your Business with{" "}
+            Stop wasting money and resources on fragmented systems. I deliver end-to-end {" "}
             <span className="bg-gradient-primary bg-clip-text text-transparent">
-              Expert Analysis
+             digital transformation projects—on time and on budget.
             </span>
           </h1>
           
           <p className="text-xl sm:text-2xl text-muted-foreground mb-8 leading-relaxed">
-            SAP & eCommerce specialist delivering enterprise solutions across EMEA. 
-            4+ years driving digital transformation through SAP S/4HANA, Commerce Cloud, and Salesforce integration.
+           I stop the financial loss caused by fragmented business systems. For 4+ years, I have built seamless integrations between enterprise Sales, E-commerce, and Operations, instantly automating order processing and reducing manual workload.
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4">
