@@ -25,7 +25,7 @@ export const Hero = () => {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
         <div className="max-w-3xl">
           <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold mb-6 text-foreground">
-           Transform Your Business with Expert Analysis {" "}
+           Transform Your Business with{" "}
             <span className="bg-gradient-primary bg-clip-text text-transparent">
               Expert Analysis
             </span>
