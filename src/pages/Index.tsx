@@ -18,7 +18,7 @@ const Index = () => {
       </main>
       <footer className="bg-muted py-8 border-t border-border">
         <div className="container mx-auto px-4 sm:px-6 lg:px-8 text-center text-muted-foreground">
-          <p>© 2025 Victor Campos Leal. Business Analyst · SAP & eCommerce Specialist</p>
+          <p>© 2025 Victor Campos Leal. Business Analyst · SAP, CRM Salesforce & eCommerce Specialist</p>
         </div>
       </footer>
     </div>

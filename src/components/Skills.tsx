@@ -7,7 +7,7 @@ const skillCategories = [
   },
   {
     category: "Development & Integration",
-    skills: ["Java", "JavaScript", "React", "Node.js", "Angular", "APIs", "REST"],
+    skills: ["Java", "JavaScript", "React", "Node.js", "Angular", "APIs", "REST","UML"],
   },
   {
     category: "Data & Analytics",
@@ -15,7 +15,7 @@ const skillCategories = [
   },
   {
     category: "Project Management",
-    skills: ["Agile", "Requirements Analysis", "UAT", "Stakeholder Management", "Workshop Facilitation"],
+    skills: ["Test coordination","Agile", "Requirements Analysis", "UAT", "BPMN","Stakeholder Management", "Workshop Facilitation"],
   },
 ];
 

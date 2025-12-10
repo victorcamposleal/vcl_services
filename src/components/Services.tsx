@@ -15,7 +15,7 @@ const services = [
   {
     icon: Workflow,
     title: "Business Process Automation",
-    description: "Automate manual workflows using AI, machine learning, and intelligent integration. Proven track record reducing operational workload by 46%.",
+    description: "Automate manual workflows using AI, machine learning, and intelligent integration. Future-proof your business by automating 46% of your manual workload and driving reliable B2B revenue.",
   },
   {
     icon: LineChart,

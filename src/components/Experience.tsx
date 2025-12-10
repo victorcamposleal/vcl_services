@@ -33,12 +33,11 @@ export const Experience = () => {
             
             <div className="space-y-4 text-muted-foreground ml-16">
               <p className="leading-relaxed">
-                Leading SAP Commerce Cloud B2B eCommerce implementation across 11 European countries, 
-                managing €800K budget with on-time delivery and full integration scope.
               </p>
               
               <ul className="space-y-2 list-disc list-inside">
                 <li>Automated 46% of annual orders (~187K/year) through Salesforce-SAP-AI integration</li>
+                <li>Leading SAP Commerce Cloud B2B eCommerce implementation across 11 European countries, managing €800K budget with on-time delivery and full integration scope.</li>
                 <li>Reduced onboarding time by 30% through comprehensive training programs</li>
                 <li>Managed Adyen payment platform operations ensuring financial accuracy</li>
                 <li>Led cross-functional workshops and requirements gathering for international rollouts</li>
